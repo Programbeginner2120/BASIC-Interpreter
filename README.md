@@ -4,9 +4,9 @@ This is a BASIC interpreter which I wrote in Java as part of my Principles of Pr
 
 To run on your computer, either download the code or clone it into a git repository on your local machine. Make sure you have a compatible version of the Java Runtime Environment as well as Java itself to run the interpreter.
 
-To run the interpreter, cd into the directory named interpreter and execute the following bash/zsh commands:
+To run the interpreter, cd into the directory named interpreter and execute the following bash/zsh commands: <br />
 
-`javac Basic.java <br />
+`javac Basic.java
 java basic [pass file with valid BASIC code here]`
 
 
