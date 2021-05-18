@@ -6,8 +6,8 @@ To run on your computer, either download the code or clone it into a git reposit
 
 To run the interpreter, cd into the directory named interpreter and execute the following bash/zsh commands:
 
-`javac Basic.java
-java basic [pass file with valid BASIC code here]`
+`javac Basic.java`
+`java basic [pass file with valid BASIC code here]`
 
 
 The program will terminate automatically if the number of arguments does not equal 1, pertintent errors will occur if the file is invalid or the file does not contain valid BASIC code
